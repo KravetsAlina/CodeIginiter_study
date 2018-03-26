@@ -51,6 +51,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 //главн контроллер назів home
-$route['default_controller'] = 'home';
+$route['default_controller'] = 'home/main';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
